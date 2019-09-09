@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pure-React-Restaurant1/static/css/main.583c84c0.chunk.css",
-    "main.js": "/Pure-React-Restaurant1/static/js/main.688d2de9.chunk.js",
-    "main.js.map": "/Pure-React-Restaurant1/static/js/main.688d2de9.chunk.js.map",
-    "runtime~main.js": "/Pure-React-Restaurant1/static/js/runtime~main.e4766bbe.js",
-    "runtime~main.js.map": "/Pure-React-Restaurant1/static/js/runtime~main.e4766bbe.js.map",
-    "static/css/2.4ea7e41b.chunk.css": "/Pure-React-Restaurant1/static/css/2.4ea7e41b.chunk.css",
-    "static/js/2.9b50ea40.chunk.js": "/Pure-React-Restaurant1/static/js/2.9b50ea40.chunk.js",
-    "static/js/2.9b50ea40.chunk.js.map": "/Pure-React-Restaurant1/static/js/2.9b50ea40.chunk.js.map",
-    "index.html": "/Pure-React-Restaurant1/index.html",
-    "precache-manifest.619e4b3a78ab42821f3f64ba2b521d83.js": "/Pure-React-Restaurant1/precache-manifest.619e4b3a78ab42821f3f64ba2b521d83.js",
-    "service-worker.js": "/Pure-React-Restaurant1/service-worker.js",
-    "static/css/2.4ea7e41b.chunk.css.map": "/Pure-React-Restaurant1/static/css/2.4ea7e41b.chunk.css.map",
-    "static/css/main.583c84c0.chunk.css.map": "/Pure-React-Restaurant1/static/css/main.583c84c0.chunk.css.map",
-    "static/media/font-awesome.min.css": "/Pure-React-Restaurant1/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/React-Redux-Reactstrap/static/css/main.583c84c0.chunk.css",
+    "main.js": "/React-Redux-Reactstrap/static/js/main.d8b9eca4.chunk.js",
+    "main.js.map": "/React-Redux-Reactstrap/static/js/main.d8b9eca4.chunk.js.map",
+    "runtime~main.js": "/React-Redux-Reactstrap/static/js/runtime~main.c3546d22.js",
+    "runtime~main.js.map": "/React-Redux-Reactstrap/static/js/runtime~main.c3546d22.js.map",
+    "static/css/2.1484a354.chunk.css": "/React-Redux-Reactstrap/static/css/2.1484a354.chunk.css",
+    "static/js/2.9b50ea40.chunk.js": "/React-Redux-Reactstrap/static/js/2.9b50ea40.chunk.js",
+    "static/js/2.9b50ea40.chunk.js.map": "/React-Redux-Reactstrap/static/js/2.9b50ea40.chunk.js.map",
+    "index.html": "/React-Redux-Reactstrap/index.html",
+    "precache-manifest.11f3b5ca1c738b5a8e7ce3054acb05aa.js": "/React-Redux-Reactstrap/precache-manifest.11f3b5ca1c738b5a8e7ce3054acb05aa.js",
+    "service-worker.js": "/React-Redux-Reactstrap/service-worker.js",
+    "static/css/2.1484a354.chunk.css.map": "/React-Redux-Reactstrap/static/css/2.1484a354.chunk.css.map",
+    "static/css/main.583c84c0.chunk.css.map": "/React-Redux-Reactstrap/static/css/main.583c84c0.chunk.css.map",
+    "static/media/font-awesome.min.css": "/React-Redux-Reactstrap/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
