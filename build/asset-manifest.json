@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Pure-React-Restaurant1/static/css/main.34de6062.chunk.css",
-    "main.js": "/Pure-React-Restaurant1/static/js/main.3ee9a97f.chunk.js",
-    "main.js.map": "/Pure-React-Restaurant1/static/js/main.3ee9a97f.chunk.js.map",
+    "main.css": "/Pure-React-Restaurant1/static/css/main.583c84c0.chunk.css",
+    "main.js": "/Pure-React-Restaurant1/static/js/main.688d2de9.chunk.js",
+    "main.js.map": "/Pure-React-Restaurant1/static/js/main.688d2de9.chunk.js.map",
     "runtime~main.js": "/Pure-React-Restaurant1/static/js/runtime~main.e4766bbe.js",
     "runtime~main.js.map": "/Pure-React-Restaurant1/static/js/runtime~main.e4766bbe.js.map",
-    "static/css/2.266e55a5.chunk.css": "/Pure-React-Restaurant1/static/css/2.266e55a5.chunk.css",
-    "static/js/2.c1f9334e.chunk.js": "/Pure-React-Restaurant1/static/js/2.c1f9334e.chunk.js",
-    "static/js/2.c1f9334e.chunk.js.map": "/Pure-React-Restaurant1/static/js/2.c1f9334e.chunk.js.map",
+    "static/css/2.4ea7e41b.chunk.css": "/Pure-React-Restaurant1/static/css/2.4ea7e41b.chunk.css",
+    "static/js/2.9b50ea40.chunk.js": "/Pure-React-Restaurant1/static/js/2.9b50ea40.chunk.js",
+    "static/js/2.9b50ea40.chunk.js.map": "/Pure-React-Restaurant1/static/js/2.9b50ea40.chunk.js.map",
     "index.html": "/Pure-React-Restaurant1/index.html",
-    "precache-manifest.9329fcad4b2284468c40fe5c295fecb1.js": "/Pure-React-Restaurant1/precache-manifest.9329fcad4b2284468c40fe5c295fecb1.js",
+    "precache-manifest.619e4b3a78ab42821f3f64ba2b521d83.js": "/Pure-React-Restaurant1/precache-manifest.619e4b3a78ab42821f3f64ba2b521d83.js",
     "service-worker.js": "/Pure-React-Restaurant1/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/Pure-React-Restaurant1/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/Pure-React-Restaurant1/static/css/main.34de6062.chunk.css.map"
+    "static/css/2.4ea7e41b.chunk.css.map": "/Pure-React-Restaurant1/static/css/2.4ea7e41b.chunk.css.map",
+    "static/css/main.583c84c0.chunk.css.map": "/Pure-React-Restaurant1/static/css/main.583c84c0.chunk.css.map",
+    "static/media/font-awesome.min.css": "/Pure-React-Restaurant1/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
